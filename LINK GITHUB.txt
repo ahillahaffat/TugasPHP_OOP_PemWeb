@@ -1,6 +1,0 @@
-NAMA	: AHILLA HAFFAT KAMMALA
-NPM	: 21081010234
-KELAS	: PEMROGRAMAN WEB C081
-
-LINK GIT HUB 
-https://github.com/ahillahaffat/TugasOOP_PemWeb.git
